@@ -12,4 +12,4 @@
 - OpenAI
 
 ## Run
-### `npm run`
+### `npm run dev`
